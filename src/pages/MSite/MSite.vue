@@ -1,12 +1,12 @@
 <template>
   <div>
-    FooterGuide
+    MSite
   </div>
 </template>
 
 <script>
 export default {
-name: "FooterGuide"
+
 }
 </script>
 

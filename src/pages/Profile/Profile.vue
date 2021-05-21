@@ -1,12 +1,11 @@
 <template>
   <div>
-    FooterGuide
+    Profile
   </div>
 </template>
 
 <script>
 export default {
-name: "FooterGuide"
 }
 </script>
 
