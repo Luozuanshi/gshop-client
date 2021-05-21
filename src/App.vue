@@ -1,7 +1,7 @@
 <template>
   <div>
   <router-view/>
-  <footer-guide></footer-guide>
+  <FooterGuide></FooterGuide>
   </div>
 </template>
 
@@ -12,6 +12,6 @@ export default {
 }
 </script>
 
-<style scoped>
+<style lang="stylus" rel="stylesheet/stylus">
 
 </style>
