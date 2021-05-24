@@ -14,20 +14,21 @@ Vue.use(VueRouter)
 export default new VueRouter({
   routes:[
     {
+      name:"msite",
       path:'/msite',
-      compoent:MSite
+      component:MSite
     },
     {
       path:'/search',
-      compoent:Search
+      component:Search
     },
     {
       path:'/order',
-      compoent:Order
+      component:Order
     },
     {
       path:'/profile',
-      compoent:Profile
+      component:Profile
     },
     {
       path:'/',

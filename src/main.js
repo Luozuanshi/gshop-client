@@ -8,5 +8,5 @@ import router from './router'
 new Vue({
   el: '#app',
   render: h => h(App),
-  router
+  router //使用上vue-router
 })

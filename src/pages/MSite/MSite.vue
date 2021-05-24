@@ -1,6 +1,6 @@
 <template>
   <div>
-    MSite
+    Msite
   </div>
 </template>
 
