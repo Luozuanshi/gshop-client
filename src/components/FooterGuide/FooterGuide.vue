@@ -35,7 +35,6 @@ export default {
 
       console.log(this.$router)
 
-
       this.$router.replace(path);
     }
   }
